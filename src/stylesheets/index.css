@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Lato" !important;
+  background-color: #181818 !important;
+  height: 100vh;
+}
+
+* {
+  color: #fff;
+}
+
+a,
+a:hover,
+a:focus {
+  color: #fff !important;
+}
+
+a:hover,
+a:focus {
+  opacity: 0.8;
+  text-decoration: none !important;
+}
